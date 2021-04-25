@@ -14,7 +14,7 @@ a semana.
 
 Durante o projeto foi desenvolvido um app que possuisse uma interface
 responsiva e adaptativa para dispositivos mobile. Por isso o app entrega
-diferentes experiênciasao usuário dependendo da tela e do sistema operacional
+diferentes experiências ao usuário dependendo da tela e do sistema operacional
 que esteja utilizando (android ou ios).
 
 Instrutor: Leonardo Moura Leitao.
