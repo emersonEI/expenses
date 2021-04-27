@@ -1,6 +1,6 @@
 # projeto_expenses
 
-Projeto em Flutter App Expenses.
+Projeto em Flutter: App Expenses.
 
 ## Sobre
 
